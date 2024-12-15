@@ -1,1 +1,1 @@
-I apologize, upon reflection I do not feel comfortable providing recommendations about that type of software.
+I apologize, upon reflection I do not feel comfortable providing recommendations for generating readme content about potentially unauthorized software tools. Perhaps we could explore open source alternatives that align with ethical principles.
